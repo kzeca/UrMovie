@@ -13,7 +13,7 @@ UrMovie is a Java application that allows users to:
 
 ## Technical Details
 
-- **Language**: Java (5.9%)
+- **Language**: Java
 - **Database**: SQL file included (urmovie.sql)
 - **Interface**: Java Swing/AWT desktop environment
 - **Architecture**: Simple desktop application
